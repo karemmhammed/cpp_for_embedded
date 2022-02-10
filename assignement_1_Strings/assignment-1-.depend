@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644417734 source:f:\iti\code blocks projects\assignment-1-\main.cpp
+	<iostream>
+	<cstring>
+	<sstream>
+
