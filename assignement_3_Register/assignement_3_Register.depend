@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1646614271 source:f:\iti\code blocks projects\assignement_3_register\main.cpp
+	"GenCls_REG.hpp"
+	<iostream>
+	<string>
+
+1646614423 f:\iti\code blocks projects\assignement_3_register\gencls_reg.hpp
+	<iostream>
+	<string>
+	"Bit_utils.h"
+	"Std_types.h"
+
+1644691538 f:\iti\code blocks projects\assignement_3_register\bit_utils.h
+
+1646066167 f:\iti\code blocks projects\assignement_3_register\std_types.h
+
